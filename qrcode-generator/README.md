@@ -1,3 +1,3 @@
-# Generator of QR-codes with RSK logo
+# Generator of QR-codes with Rootstock logo
 
-[Generate a QR-code with RSK logo image](https://iov-qr-codes.netlify.app/).
+[Generate a QR-code with Rootstock logo image](https://iov-qr-codes.netlify.app/).

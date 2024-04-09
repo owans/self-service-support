@@ -30,14 +30,14 @@ const graphics = [
     url: 'https://www.rifos.org/',
   },
   {
-    name: 'IOVLabs',
-    image: 'iov.svg',
+    name: 'RootstockLabs',
+    image: 'rootstocklabs.svg',
     margin: 3,
     colors: {
-      bright: '#1acd6a',
-      dark: '#0b5d2e',
+      bright: '#000000',
+      dark: '#ffffff',
     },
-    url: 'https://www.iovlabs.org/',
+    url: 'https://www.rootstocklabs.com',
   },
   {
     name: 'TARINGA',

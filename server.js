@@ -42,7 +42,7 @@ if (process.env.NODE_ENV != 'production') {
 
 // redirect all requests for https://self-service.rsk.co/
 server.all('/', (req, res) => {
-  res.status(302).redirect('https://developers.rsk.co/');
+  res.status(302).redirect('https://dev.rootstock.io/');
 });
 
 // health check

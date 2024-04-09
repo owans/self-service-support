@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Generate QR-codes with IOVLabs logos</h1>
+      <h1 className={styles.title}>Generate QR-codes with RootstockLabs logos</h1>
       <QrInputFields setOptions={setOptions} />
       <div ref={qrRef} />
       {options.data && (
@@ -37,7 +37,7 @@ function App() {
       )}
       <div>
         <p>
-          Brought to you with ❤️ by the Developer Experience team @ IOV Labs!
+          Brought to you with ❤️ by the Developer Experience team @ RootstockLabs!
         </p>
       </div>
     </div>
